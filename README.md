@@ -17,7 +17,7 @@ All rights reserved.
 ### Page flip navigation
 Users can navigate by dragging or clicking the top corners of a page to flip forward or backward, or jump to sections using the tab navigation.
 
-### Club Categories
+### Club categories
 Clubs are organized into six categories:
 - **Technology**
 - **Hobby**
@@ -26,13 +26,13 @@ Clubs are organized into six categories:
 - **Creativity** 
 - **Sports** 
 
-### 🔍 Club Search & Filtering
+### Club search
 Users can search and filter clubs by interest tags, department, star rating, and member count.
 
-### 📌 Save Clubs
+### Save clubs
 Students can save up to 7 clubs to a personal saved list.
 
-### 📋 Club Detail Pages
+### Club detail pages
 Each club has its own page showing:
 - Description and meeting times/location
 - Club leader profile
@@ -41,13 +41,13 @@ Each club has its own page showing:
 - A photo gallery
 - Peer reviews with star ratings
 
-### ⭐ Leave a Review
+### Review clubs
 Students can leave a star rating review on any club's detail page.
 
-### 📝 Club Application Form
+### Join clubs
 Clicking "Join Us" on any club opens an application form collecting the student's name, student number, age, faculty, and reason for joining.
 
-### 📚 Alphabetical Table of Contents
+### Table of contents
 A full A–Z index of all clubs is available.
 
 ---
