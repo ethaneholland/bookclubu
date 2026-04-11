@@ -1,5 +1,5 @@
 # BookClubU
-COMP 3020 - Human Computer Interaction - Group Project 3
+COMP 3020 - Human Computer Interaction - Group 03
 
 A student club discovery prototype for University of Manitoba clubs. 
 
